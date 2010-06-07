@@ -1,0 +1,15 @@
+package: rimo.tv.xyzzy
+version: 0.1.1
+
+sources:
+  - site-lisp/rimo.tv.xyzzy/**/*.l
+
+document:
+  - site-lisp/rimo.tv.xyzzy/docs/README.txt
+
+files:
+  - site-lisp/**/*.l
+  - site-lisp/**/*.dll
+  - site-lisp/**/*.lc
+  - site-lisp/**/*.txt
+  - site-lisp/**/MIT-LICENSE

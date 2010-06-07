@@ -1,0 +1,10 @@
+EXPORTS
+	XyRimoGetLastError
+	XyRimoFormatError
+	XyRimoGetWindow
+	XyRimoUpdateWindow
+	XyRimoShowWindow
+	XyRimoHideWindow
+	XyRimoMoveWindow
+	XyRimoCloseWindow
+	XyRimoCreateWindow
