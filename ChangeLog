@@ -1,3 +1,7 @@
+2007-05-19  MIYAMUKO Katsuyuki
+
+	* (ReleaseWebBrowser): ReleaseWebBrowserImpl を呼び出すようにした。
+
 2007-02-18  MIYAMUKO Katsuyuki
 
 	* rimo.tv.xyzzy 0.1.1 リリース

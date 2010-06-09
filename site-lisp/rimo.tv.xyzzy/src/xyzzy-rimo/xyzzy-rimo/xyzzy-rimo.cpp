@@ -269,6 +269,7 @@ ReleaseWebBrowser()
     D(__FUNCTION__);
 
     __try {
+        ReleaseWebBrowserImpl();
     } __except(1) {
         // ignore error
     }
